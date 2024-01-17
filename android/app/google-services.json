@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "186683168365",
+    "project_id": "pizzaqdeliveryproject",
+    "storage_bucket": "pizzaqdeliveryproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186683168365:android:ec4a07d126f176de67d164",
+        "android_client_info": {
+          "package_name": "com.example.flutter_restaurant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-C3L5S96Gu6Z9nb2zZqwp-7fYaaUjY0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186683168365:android:0f4623f906ef998967d164",
+        "android_client_info": {
+          "package_name": "com.pappagpizza.PappaGeorggeoPizza"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-C3L5S96Gu6Z9nb2zZqwp-7fYaaUjY0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

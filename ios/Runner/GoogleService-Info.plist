@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAgykeWhmyLUkQiAbaZNgO8K3zY4P0kIrk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>186683168365</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.pappagpizza.PappaGeorggeoPizza</string>
+	<key>PROJECT_ID</key>
+	<string>pizzaqdeliveryproject</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pizzaqdeliveryproject.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:186683168365:ios:a619e1f2ca5302b867d164</string>
+</dict>
+</plist>
